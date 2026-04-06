@@ -4,6 +4,6 @@ if numero1 > 45:
 else:
    print("Numero menor")
 if 1 < 2:
-   pass
+    pass
 def funcion_pendiente():
    pass
